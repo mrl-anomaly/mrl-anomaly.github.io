@@ -49,5 +49,29 @@
 </description>
     </item>
     
+    <item>
+      <title>data64</title>
+      <link>https://mrl-anomaly.github.io/data/data64/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://mrl-anomaly.github.io/data/data64/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data65</title>
+      <link>https://mrl-anomaly.github.io/data/data65/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://mrl-anomaly.github.io/data/data65/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data66</title>
+      <link>https://mrl-anomaly.github.io/data/data66/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://mrl-anomaly.github.io/data/data66/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

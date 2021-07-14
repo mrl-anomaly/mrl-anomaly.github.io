@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mrl-anomaly.github.io/data/featured/</loc>
+  </url><url>
     <loc>https://mrl-anomaly.github.io/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
@@ -56,7 +58,22 @@
     <loc>https://mrl-anomaly.github.io/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://mrl-anomaly.github.io/author/alex-paul-ajuwape/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mrl-anomaly.github.io/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mrl-anomaly.github.io/data/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mrl-anomaly.github.io/data/data64/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mrl-anomaly.github.io/data/data65/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mrl-anomaly.github.io/data/data66/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mrl-anomaly.github.io/admin/</loc>
@@ -66,8 +83,6 @@
     <loc>https://mrl-anomaly.github.io/people/</loc>
   </url><url>
     <loc>https://mrl-anomaly.github.io/test/</loc>
-  </url><url>
-    <loc>https://mrl-anomaly.github.io/author/alex-paul-ajuwape/</loc>
   </url><url>
     <loc>https://mrl-anomaly.github.io/categories/</loc>
   </url>
